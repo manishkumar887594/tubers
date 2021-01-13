@@ -25,7 +25,7 @@ SECRET_KEY = '4uv*n!3z8d#)i*0e+oka7wud(i5s5%yo97j*4r#xtoha9jg4ba'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://ytube7742.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['https://ytube7742.herokuapp.com/']
 LOGIN_REDIRECTED_URL ='dashboard'
 
 # Application definition
